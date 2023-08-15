@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EboBentsi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning to become a frontend Dev
-- 💞️ I’m looking to learn from experienced Devs
+- 💞️ I’m looking forward to learn from experienced Devs
 - 📫 You can reach me via email johnbentsi56@gmail.com
 
 <!---
