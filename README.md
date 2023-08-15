@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning to become a frontend Dev
 - 💞️ I’m looking to learn from experienced Devs
-- 📫 How to reach me email johnbentsi56@gmail.com
+- 📫 You can reach me via email johnbentsi56@gmail.com
 
 <!---
 EboBentsi/EboBentsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
